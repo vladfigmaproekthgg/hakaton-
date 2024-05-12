@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    background-color:  white;
+    border-radius: 20px;
+     border:5px solid black;
+     font-size: 40px;
+}
+nav a{
+    border-radius: 30px;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: white;
+    font-size: 30px;
+    border:5px solid black;
+    text-decoration:none;
+    margin:5px ;
+    padding: 5px;
+}
+
+nav{
+    text-align: center;
+
+}
+
+body {
+    background-color:white;
+    padding: 5px;
+}
+p {
+    text-align: center;
+    font-size: 30px;
+    background-color: white;
+    border-radius: 30px;
+    border:5px solid black;
+    padding: 1px;
+}
+img {
+    border-radius: 40px;
+    border:5px solid black;
+    width:800px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    max-width:100%;
+    padding: 5px;
+    
+    
+}
+.lol{
+    background-color:white;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    
+}
